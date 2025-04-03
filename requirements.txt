@@ -2,3 +2,5 @@ fastapi
 sqlalchemy
 tronpy
 pytest
+asyncpg
+uvicorn
