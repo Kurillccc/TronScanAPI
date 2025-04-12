@@ -2,5 +2,7 @@ fastapi
 sqlalchemy
 tronpy
 pytest
+pytest-asyncio
+greenlet>=2.0
 asyncpg
 uvicorn
